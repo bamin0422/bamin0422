@@ -28,7 +28,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>
-  <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=Amazon+aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
