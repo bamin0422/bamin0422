@@ -34,5 +34,5 @@ Here are some ideas to get you started:
   </p>
 
 | GitHub stats | Organization |
-| :---- | ------ | 
+| ---- | ------ | 
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bamin0422)](https://github.com/anuraghazra/github-readme-stats) | <img src="https://user-images.githubusercontent.com/28584299/108400113-3238af00-725e-11eb-9bb9-3adec9d67925.png" width="579" height="150"/> |
