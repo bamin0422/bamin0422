@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
@@ -33,6 +33,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
   </p>
 
-| GitHub stats | Organization |
-| ---- | ------ | 
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bamin0422)](https://github.com/anuraghazra/github-readme-stats) | <img src="https://user-images.githubusercontent.com/28584299/108400113-3238af00-725e-11eb-9bb9-3adec9d67925.png" width="579" height="150"/> |
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bamin0422)](https://github.com/anuraghazra/github-readme-stats)
